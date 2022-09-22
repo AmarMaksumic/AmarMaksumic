@@ -1,6 +1,6 @@
 ### Hi there, my name is Amar!
 
-#### I'm a second year comp. sci. and comp. engineering student at [Rensselaer Polytechninc Institute](https://rpi.edu/). I listen to pop & kpop, wish I had a VW Golf R with 6MT, and am always up to going out and exploring the world with others. I'm interested in the applications of machine learning, computer vision, and control systems in the automotive industry.
+#### I'm a second year comp. sci. and comp. engineering student at [Rensselaer Polytechninc Institute](https://rpi.edu/). I listen to pop & kpop 🎶, wish I had a VW Golf R with 6MT 🚗, and am always up to going out and exploring the world with others 🌆. I'm interested in the applications of machine learning, computer vision, and control systems in the automotive industry.
 
 #### One of my side hustles is being the Powertrain Lead at [Rensselaer Motorsport](http://formularpi.org): a Formula Student team based in New York. I am leading the development of RM’s first electric powertrain: a package comprised of an [EMRAX 228](https://emrax.com/e-motors/emrax-228/) motor and a [Cascadia RMS PM100DX](https://stealthev.com/product/rinehart-pm100dx/) motor controller.
 
@@ -12,8 +12,11 @@
 
 <ul>
 <li>Line - Web app and mobile app for keeping track of user's clothing, shoes, and other items. The user can match and develop outfit sets, and a ML algorithm can rate/edit the sets. </li>
-<li>VeZa - A family tree viewer that dynamically adjusts depending on who you center in the tree.
+<li>VeZa - A family tree viewer that dynamically adjusts depending on who you center in the tree.</li>
+<li>BlueComms - Ctrl+C and Ctrl+V across computers 🤯 (currently uni-directional, working on making the transfer bi-directional).</li>
 </ul>
+
+###### ✨ the end ✨
 
 <!--
 **AmarMaksumic/AmarMaksumic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
