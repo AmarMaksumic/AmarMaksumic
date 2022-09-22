@@ -6,7 +6,7 @@
 
 #### Another one of my side hustles is helping to revive the [RPI Robotics Club](https://sites.ecse.rpi.edu/roboticsclub/). I'm an officer who is working on laser tag robots (imagine a bunch of roomba's running around with lasers on their head) and maybeeeeeeeeeeeeee a couch bot in the future (a couch that can drive you around).
 
-#### Lastly, I mentor the [Steel Hawks](https://steelhawks.net), a FIRST Robotics Competition. Currently, the team is comprised of over 100 high-achieving students. Each year, they come back with an increasing number of awards and a higher ranking in the Worlds Championship. I primarly help them with tasks related to computer vision and autonomous + teleoperated control systems.
+#### Lastly, I mentor the [Steel Hawks](https://steelhawks.net), a FIRST Robotics Competition team. Currently, the team is comprised of over 100 high-achieving students. Each year, they come back with an increasing number of awards and a higher ranking in the World's Championship. I primarly help them with tasks related to computer vision and autonomous + teleoperated control systems.
 
 #### ***LIST OF PERSONAL PROJECTS I AM WORKING ON RN:
 
